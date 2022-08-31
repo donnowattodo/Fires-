@@ -1,0 +1,12 @@
+.todo-container {
+  width: wh100;
+  padding: 30px;
+  margin: 10px;
+  background-color: pink;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+}
+.todo-container:hover {
+  box-shadow: rgba(0, 0, 0, 0.5) 1px 1px 1.5px;
+}
