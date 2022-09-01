@@ -8,7 +8,9 @@
 **<p align="center">2022.08.26 ~ 2022.09.01</p>**
 
 ## 🔥초안
-![image](https://user-images.githubusercontent.com/108657283/187909339-0221b329-9bf7-44fc-a3d1-b826647775f7.png)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/108657283/187909339-0221b329-9bf7-44fc-a3d1-b826647775f7.png"/>
+</p>
 
 ## 🔥구현기능
  - **(1) 공통**
