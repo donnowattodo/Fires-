@@ -3,8 +3,6 @@
 <img src="https://user-images.githubusercontent.com/108657283/187911187-7ff5b339-4352-4c34-9614-9ee5d3afcffe.png"/>
 <img src="https://user-images.githubusercontent.com/108657283/187939285-2834bfdd-b497-4984-a390-a291d6d3cb35.gif"/>
 </p>
-
-
           
 ## 🔥기간
 **<p align="center">2022.08.26 ~ 2022.09.01</p>**
@@ -31,7 +29,7 @@
     - json-server 서버 배포 (heroku 사용)
     - 리액트 프로젝트 배포 (vercel 사용)
 
-## 💖팀원
+## 🔥팀원
  - 심혜림
  - 이예지
  - 이경하
