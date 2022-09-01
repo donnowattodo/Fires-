@@ -1,5 +1,6 @@
 # 🔥만 있는 사람? (5조)
-![image](https://user-images.githubusercontent.com/108657283/187908606-cededd43-64f5-40ea-9d58-2b7e27beaca1.png)
+[image](https://user-images.githubusercontent.com/108657283/187910301-d14b06f8-31c4-492a-a34f-9bd16be6d179.png)
+
 
 ## 🔥프로젝트 기간
 **<p align="center">2022.08.26 ~ 2022.09.01</p>**
