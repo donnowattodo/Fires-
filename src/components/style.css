@@ -18,7 +18,7 @@
 }
 .AddTodoForm input,
 button {
-  width: 100%;
+  width: 95%;
   height: 40px;
   border-color: eee;
 }
@@ -34,10 +34,10 @@ button {
 
 .Comment {
   gap: 12px;
-  width: 100%;
+  width: 60%;
   padding: 0 12px;
 }
 
 .Comment input {
-  width: 150px;
+  width: 70%;
 }

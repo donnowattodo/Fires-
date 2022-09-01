@@ -3,6 +3,7 @@ import nextId from "react-id-generator";
 import axios from "axios";
 import { useParams } from "react-router-dom";
 import Button from "./common/Button";
+import "./style.css";
 
 const Comment = () => {
   let id = nextId();

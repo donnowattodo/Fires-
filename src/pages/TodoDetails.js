@@ -77,7 +77,7 @@ const StContainer = styled.div`
 
 const StDialog = styled.div`
   width: 100%;
-  height: 80vh;
+  height: 70vh;
   border: 1px solid #eee;
   flex-direction: column;
   justify-content: space-between;
