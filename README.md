@@ -2,10 +2,10 @@
 ![image](https://user-images.githubusercontent.com/108657283/187911187-7ff5b339-4352-4c34-9614-9ee5d3afcffe.png)
 
 
-## 🔥프로젝트 기간
+## 🔥기간
 **<p align="center">2022.08.26 ~ 2022.09.01</p>**
 
-## 🔥프로젝트 초안
+## 🔥초안
 ![image](https://user-images.githubusercontent.com/108657283/187909339-0221b329-9bf7-44fc-a3d1-b826647775f7.png)
 
 ## 🔥구현기능
