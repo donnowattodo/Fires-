@@ -1,5 +1,5 @@
 # 🔥만 있는 사람? (5조)
-[image](https://user-images.githubusercontent.com/108657283/187910301-d14b06f8-31c4-492a-a34f-9bd16be6d179.png)
+![image](https://user-images.githubusercontent.com/108657283/187910403-8e25304e-0d8a-4647-85cb-9264913b5301.png)
 
 
 ## 🔥프로젝트 기간
