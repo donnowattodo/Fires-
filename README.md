@@ -5,6 +5,9 @@
 ## 🔥프로젝트 기간
 **<p align="center">2022.08.26 ~ 2022.09.01</p>**
 
+## 🔥프로젝트 초안
+![image](https://user-images.githubusercontent.com/108657283/187909339-0221b329-9bf7-44fc-a3d1-b826647775f7.png)
+
 ## 🔥구현기능
  - **(1) 공통**
     - UI 구현하기
@@ -23,10 +26,6 @@
 - **(4) 배포**
     - json-server 서버 배포 (heroku 사용)
     - 리액트 프로젝트 배포 (S3, vercel 등 자유)
-
-
-## 🔥프로젝트 초안
-![image](https://user-images.githubusercontent.com/108657283/187909339-0221b329-9bf7-44fc-a3d1-b826647775f7.png)
 
 ## 🔥배포
 https://fires-sigma.vercel.app/
