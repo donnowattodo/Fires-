@@ -1,5 +1,5 @@
 # 🔥만 있는 사람? (5조)
-(https://user-images.githubusercontent.com/108657283/187908606-cededd43-64f5-40ea-9d58-2b7e27beaca1.png)
+![image](https://user-images.githubusercontent.com/108657283/187908606-cededd43-64f5-40ea-9d58-2b7e27beaca1.png)
 
 ## 🔥프로젝트 기간
 **<p align="center">2022.08.26 ~ 2022.09.01</p>**
@@ -24,16 +24,14 @@
     - 리액트 프로젝트 배포 (S3, vercel 등 자유)
 
 
+## 🔥프로젝트 초안
+![image](https://user-images.githubusercontent.com/108657283/187909339-0221b329-9bf7-44fc-a3d1-b826647775f7.png)
 
-## 🟧시연영상
-[https://youtu.be/zKJuj3WpUKI](https://youtu.be/zKJuj3WpUKI)
-
-## 🟥프로젝트 초안
-(https://user-images.githubusercontent.com/108657283/187909212-7616e099-ffac-4ef5-8956-30790a36abaf.png)
+## 🔥배포
+https://fires-sigma.vercel.app/
 
 ## 💖팀원
- - 고슬빈
- - 강정아
- - 강민승
  - 심혜림
- - 엄주영
+ - 이예지
+ - 이경하
+ - 김보미
