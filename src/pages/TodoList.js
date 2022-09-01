@@ -4,7 +4,7 @@ import TodoCard from "../components/todoCard/TodoCard";
 const TodoList = () => {
   const [todolist, setTodolist] = useState([]);
   const getTodos = async () => {
-    let url = `http://localhost:5000/todos`;
+    let url = `https://young-chamber-90300.herokuapp.com/todos`;
     let response = await fetch(url);
     let data = await response.json();
     setTodolist(data);

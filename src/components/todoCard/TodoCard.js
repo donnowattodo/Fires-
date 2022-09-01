@@ -8,7 +8,9 @@ const TodoCard = ({ item }) => {
   const onremove = () => {
     if (window.confirm("이 🔥만을 삭제할꺼니?")) {
       alert("삭제완.");
-      axios.delete("http://localhost:5000/todos/" + item.id);
+      axios.delete(
+        "https://young-chamber-90300.herokuapp.com/todos/" + item.id
+      );
     } else {
       alert("취소완.");
     }

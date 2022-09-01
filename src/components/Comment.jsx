@@ -16,7 +16,7 @@ const Comment = () => {
   const [body, setBody] = useState(initialState);
   const [comments, setComments] = useState([]);
   const getTodos = async () => {
-    let url = `http://localhost:5000/comments`;
+    let url = `https://young-chamber-90300.herokuapp.com/comments`;
     let response = await fetch(url);
     let data = await response.json();
     setComments(data);
@@ -35,7 +35,10 @@ const Comment = () => {
     });
   };
   let addComment = () => {
-    axios.post("http://localhost:5000/comments", { ...body, id: id });
+    axios.post("https://young-chamber-90300.herokuapp.com/comments/", {
+      ...body,
+      id: id,
+    });
     setBody(initialState);
   };
   return (
@@ -67,17 +70,24 @@ const Comment = () => {
             <Button
               onClick={() => {
                 var inputString = prompt("내용을 입력해주세요. (50자 이내)");
-                axios.patch("http://localhost:5000/comments/" + comment.id, {
-                  ...comment,
-                  body: inputString,
-                });
+                axios.patch(
+                  "https://young-chamber-90300.herokuapp.com/comments/" +
+                    comment.id,
+                  {
+                    ...comment,
+                    body: inputString,
+                  }
+                );
               }}
             >
               ✍
             </Button>
             <Button
               onClick={() => {
-                axios.delete("http://localhost:5000/comments/" + comment.id);
+                axios.delete(
+                  "https://young-chamber-90300.herokuapp.com/comments/" +
+                    comment.id
+                );
                 setBody(initialState);
               }}
             >

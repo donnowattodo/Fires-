@@ -9,7 +9,7 @@ const ListDetail = () => {
   const navigate = useNavigate();
   const [list, setlist] = useState("null");
   const getListDetail = async () => {
-    let url = `http://localhost:5000/todos/${id}`;
+    let url = `https://young-chamber-90300.herokuapp.com/todos/${id}`;
     let response = await fetch(url);
     let data = await response.json();
     setlist(data);
@@ -44,11 +44,15 @@ const ListDetail = () => {
                     "내용을 입력해주세요.",
                     list.content
                   );
-                  axios.patch("http://localhost:5000/todos/" + list.id, {
-                    ...list,
-                    title: inputString1,
-                    content: inputString2,
-                  });
+                  axios.patch(
+                    "https://young-chamber-90300.herokuapp.com/todos/" +
+                      list.id,
+                    {
+                      ...list,
+                      title: inputString1,
+                      content: inputString2,
+                    }
+                  );
                 }}
               >
                 수정
