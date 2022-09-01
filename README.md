@@ -25,7 +25,7 @@
     - 댓글 수정 하기
 - **(4) 배포**
     - json-server 서버 배포 (heroku 사용)
-    - 리액트 프로젝트 배포 (S3, vercel 등 자유)
+    - 리액트 프로젝트 배포 (vercel 사용)
 
 ## 🔥배포
 https://fires-sigma.vercel.app/
