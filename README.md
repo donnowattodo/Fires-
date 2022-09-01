@@ -1,10 +1,11 @@
 # 🔥만 있는 사람? (5조)
 <p align="center">
 <img src="https://user-images.githubusercontent.com/108657283/187911187-7ff5b339-4352-4c34-9614-9ee5d3afcffe.png"/>
-<img src="https://user-images.githubusercontent.com/108657283/187939285-2834bfdd-b497-4984-a390-a291d6d3cb35.gif/>
+<img src="https://user-images.githubusercontent.com/108657283/187939285-2834bfdd-b497-4984-a390-a291d6d3cb35.gif"/>
 </p>
 
 
+          
 ## 🔥기간
 **<p align="center">2022.08.26 ~ 2022.09.01</p>**
 
